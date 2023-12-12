@@ -12,7 +12,7 @@ public class FunctionalProgrammingThread {
         t1.start();
     }
     /*
-    Nic nie przyjmuje, nic nie zwraca.
+    has no arguments, returns nothing
     public interface Runnable {
         void run();
     }
